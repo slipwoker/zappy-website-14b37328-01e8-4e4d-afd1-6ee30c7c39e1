@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://example.com
+https://hashpritzer-hachacham-shel-guy.zappy5.app
 מותג אקססוריז ישראלי עם המון אופי, הומור וסטייל. גלה תכשיטים מקוריים, אביזרים שווים וטיפים חכמים שיהפכו כל לוק למנצח. כנסו עכשיו!
 
 ### תכונות
-https://example.com/features
+https://hashpritzer-hachacham-shel-guy.zappy5.app/features
 מאחורי כל תכשיט מסתתר טריק קטן. גלו את התכונות המיוחדות של הקולקציה: חומרים איכותיים, עיצובים מפתיעים ויכולות התאמה ורסטיליות. תתחדשו!
 
 ### הסיפור שלנו
-https://example.com/story
+https://hashpritzer-hachacham-shel-guy.zappy5.app/story
 איך גיא אחד החליט שכל בחורה צריכה קצת שפירצר בחיים. הסיפור האמיתי, המצחיק והמרגש מאחורי המותג שכבש את הרחוב. בואו להכיר מקרוב.
 
 ### צור קשר
-https://example.com/contact
+https://hashpritzer-hachacham-shel-guy.zappy5.app/contact
 יש לך שאלה על אקססוריז? רעיון מטורף? צרי קשר עם גיא וקבלי שירות אישי, כיפי וחכם. אנחנו זמינים לכל שאלה, בקשה או סתם צ&#39;אט על סטייל.
 
 ### תודה — ההודעה התקבלה
-https://example.com/thank-you
+https://hashpritzer-hachacham-shel-guy.zappy5.app/thank-you
 השפירצר החכם של גיא - תודה — ההודעה התקבלה
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://hashpritzer-hachacham-shel-guy.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://hashpritzer-hachacham-shel-guy.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://hashpritzer-hachacham-shel-guy.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://example.com/contact
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://hashpritzer-hachacham-shel-guy.zappy5.app/contact
+- Endpoint: https://hashpritzer-hachacham-shel-guy.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -77,6 +77,6 @@ Jewelry / Accessories
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://hashpritzer-hachacham-shel-guy.zappy5.app/sitemap.xml
+- Robots: https://hashpritzer-hachacham-shel-guy.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://hashpritzer-hachacham-shel-guy.zappy5.app/llms-full.txt
