@@ -1,0 +1,82 @@
+# השפירצר החכם של גיא — Generative Engine Optimization Map
+
+> A brand called 'Guy's Smart Shpirtzer' — likely a playful, personality-driven accessories or jewelry brand with a witty, humorous tone suggested by the word 'חכם' (smart/clever). The name 'שפירצר' implies a fun, informal, possibly Israeli street-culture vibe. The brand appears to be personal and character-led, centered around the founder 'Guy'.
+
+---
+
+## Pages
+
+### בית
+https://-14b37328.zappy5.app
+מותג אקססוריז ישראלי עם המון אופי, הומור וסטייל. גלה תכשיטים מקוריים, אביזרים שווים וטיפים חכמים שיהפכו כל לוק למנצח. כנסו עכשיו!
+
+### תכונות
+https://-14b37328.zappy5.app/features
+מאחורי כל תכשיט מסתתר טריק קטן. גלו את התכונות המיוחדות של הקולקציה: חומרים איכותיים, עיצובים מפתיעים ויכולות התאמה ורסטיליות. תתחדשו!
+
+### הסיפור שלנו
+https://-14b37328.zappy5.app/story
+איך גיא אחד החליט שכל בחורה צריכה קצת שפירצר בחיים. הסיפור האמיתי, המצחיק והמרגש מאחורי המותג שכבש את הרחוב. בואו להכיר מקרוב.
+
+### צור קשר
+https://-14b37328.zappy5.app/contact
+יש לך שאלה על אקססוריז? רעיון מטורף? צרי קשר עם גיא וקבלי שירות אישי, כיפי וחכם. אנחנו זמינים לכל שאלה, בקשה או סתם צ&#39;אט על סטייל.
+
+### תודה — ההודעה התקבלה
+https://-14b37328.zappy5.app/thank-you
+השפירצר החכם של גיא - תודה — ההודעה התקבלה
+
+## Legal & Policy
+
+### Privacy Policy
+https://-14b37328.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-14b37328.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-14b37328.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-14b37328.zappy5.app/contact
+- Endpoint: https://-14b37328.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About השפירצר החכם של גיא
+A brand called 'Guy's Smart Shpirtzer' — likely a playful, personality-driven accessories or jewelry brand with a witty, humorous tone suggested by the word 'חכם' (smart/clever). The name 'שפירצר' implies a fun, informal, possibly Israeli street-culture vibe. The brand appears to be personal and character-led, centered around the founder 'Guy'.
+
+## Target Audience
+- מקצוענים צעירים טכנולוגיים
+- נשים עוקבות אופנה
+- קונים למתנות לאירועים מיוחדים
+
+## Industry
+Jewelry / Accessories
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-14b37328.zappy5.app/sitemap.xml
+- Robots: https://-14b37328.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-14b37328.zappy5.app/llms-full.txt
